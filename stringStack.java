@@ -43,7 +43,7 @@ class Solution {
         j--;
       } else {
         // If mismatch skip 2 chars in pat
-        // This simulates a "stack pop" effect
+        // This simulates a "stack pop" effectt
         i -= 2;
       }
     }
