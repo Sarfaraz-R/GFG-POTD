@@ -33,10 +33,11 @@ Each file contains:
 
 🟢 Easy 🟡 Medium 🔴 Hard
 
-| #   | Date     | Problem Title                     | Difficulty |
-| --- | -------- | --------------------------------- | ---------- |
-| 1.  | 13/09/25 | MinimumCosttocutaboardintosquares | 🟡 Medium  |
-| 2.  | 14/09/25 | Gas Station                       | 🟡 Medium  |
+| #   | Date     | Problem Title                     | Difficulty | Topic  |
+| --- | -------- | --------------------------------- | ---------- | ------ |
+| 1.  | 13/09/25 | MinimumCosttocutaboardintosquares | 🟡 Medium  | Greedy |
+| 2.  | 14/09/25 | Gas Station                       | 🟡 Medium  | Greedy |
+| 3.  | 15/09/25 | string Stack                      | 🟡 Medium  | Greedy |
 
 (✅ I will keep updating this table daily as I solve new POTDs.)
 
