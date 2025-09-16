@@ -25,3 +25,42 @@
 // 3 ≤ arr.size() ≤ 103
 // arr[i] is either an operator: "+", "-", "*", "/" or "^", or an integer in the
 // range [-10^4, 10^4]
+
+class Solution {
+  public int evaluatePostfix(String[] arr) {
+    Stack<Integer> st = new Stack<>();
+    for (int i = 0; i < arr.length; i++) {
+      char ch = arr[i].charAt(0);
+      if ((ch == '+' || ch == '-' || ch == '*' || ch == '/' || ch == '^') && arr[i].length() == 1) {
+        int res = performOperation(st, ch);
+        // System.out.println(res);
+        st.push(res);
+      } else {
+        int num = Integer.valueOf(arr[i]);
+        st.push(num);
+      }
+
+    }
+    return st.peek();
+  }
+
+  private int performOperation(Stack<Integer> st, char ch) {
+    int a = st.pop();
+    int b = st.pop();
+    switch (ch) {
+      case '+':
+        return a + b;
+      case '-':
+        return b - a;
+      case '*':
+        return a * b;
+      case '/':
+        return (int) Math.floorDiv(b, a);
+      case '^':
+        return (int) Math.pow(b, a);
+      default:
+        return 0;
+    }
+  }
+
+}
