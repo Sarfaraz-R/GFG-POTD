@@ -38,6 +38,7 @@ Each file contains:
 | 1.  | 13/09/25 | MinimumCosttocutaboardintosquares | 🟡 Medium  | Greedy |
 | 2.  | 14/09/25 | Gas Station                       | 🟡 Medium  | Greedy |
 | 3.  | 15/09/25 | string Stack                      | 🟡 Medium  | Greedy |
+| 4.  | 16/09/25 | postfix Evaluation                | 🟡 Medium  | Stack  |
 
 (✅ I will keep updating this table daily as I solve new POTDs.)
 
