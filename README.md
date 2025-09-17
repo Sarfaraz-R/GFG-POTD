@@ -39,6 +39,7 @@ Each file contains:
 | 2.  | 14/09/25 | Gas Station                       | 🟡 Medium  | Greedy |
 | 3.  | 15/09/25 | string Stack                      | 🟡 Medium  | Greedy |
 | 4.  | 16/09/25 | postfix Evaluation                | 🟡 Medium  | Stack  |
+| 5.  | 17/09/25 | Decode String                     | 🟡 Medium  | Stack  |
 
 (✅ I will keep updating this table daily as I solve new POTDs.)
 
