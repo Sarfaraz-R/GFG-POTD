@@ -33,14 +33,15 @@ Each file contains:
 
 🟢 Easy 🟡 Medium 🔴 Hard
 
-| #   | Date     | Problem Title                     | Difficulty | Topic  |
-| --- | -------- | --------------------------------- | ---------- | ------ |
-| 1.  | 13/09/25 | MinimumCosttocutaboardintosquares | 🟡 Medium  | Greedy |
-| 2.  | 14/09/25 | Gas Station                       | 🟡 Medium  | Greedy |
-| 3.  | 15/09/25 | string Stack                      | 🟡 Medium  | Greedy |
-| 4.  | 16/09/25 | postfix Evaluation                | 🟡 Medium  | Stack  |
-| 5.  | 17/09/25 | Decode String                     | 🟡 Medium  | Stack  |
-| 6.  | 18/09/25 | Next Greater Element II           | 🟡 Medium  | Stack  |
+| #   | Date     | Problem Title                            | Difficulty | Topic  |
+| --- | -------- | ---------------------------------------- | ---------- | ------ |
+| 1.  | 13/09/25 | Minimum Cost to cut a board into squares | 🟡 Medium  | Greedy |
+| 2.  | 14/09/25 | Gas Station                              | 🟡 Medium  | Greedy |
+| 3.  | 15/09/25 | string Stack                             | 🟡 Medium  | Greedy |
+| 4.  | 16/09/25 | postfix Evaluation                       | 🟡 Medium  | Stack  |
+| 5.  | 17/09/25 | Decode String                            | 🟡 Medium  | Stack  |
+| 6.  | 18/09/25 | Next Greater Element II                  | 🟡 Medium  | Stack  |
+| 7.  | 19/09/25 | Min Add To Make Parenthesis Valid        | 🟡 Medium  | Stack  |
 
 (✅ I will keep updating this table daily as I solve new POTDs.)
 
