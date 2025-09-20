@@ -42,6 +42,7 @@ Each file contains:
 | 5.  | 17/09/25 | Decode String                            | 🟡 Medium  | Stack  |
 | 6.  | 18/09/25 | Next Greater Element II                  | 🟡 Medium  | Stack  |
 | 7.  | 19/09/25 | Min Add To Make Parenthesis Valid        | 🟡 Medium  | Stack  |
+| 8.  | 20/09/25 | Longest Subarray Length                  | 🟡 Medium  | Stack  |
 
 (✅ I will keep updating this table daily as I solve new POTDs.)
 
