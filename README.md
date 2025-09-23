@@ -45,6 +45,7 @@ Each file contains:
 | 8.  | 20/09/25 | Longest Subarray Length                  | 🟡 Medium  | Stack  |
 | 9.  | 21/09/25 | Maximal Rectangle                        | 🔴 Hard    | Stack  |
 | 10. | 22/09/25 | Min and Max For Every Window Size        | 🔴 Hard    | Stack  |
+| 11. | 23/09/25 | Reverse a Queue                          | 🟢 Easy    | Stack  |
 
 (✅ I will keep updating this table daily as I solve new POTDs.)
 
