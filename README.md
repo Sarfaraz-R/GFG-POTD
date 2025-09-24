@@ -46,6 +46,7 @@ Each file contains:
 | 9.  | 21/09/25 | Maximal Rectangle                        | 🔴 Hard    | Stack  |
 | 10. | 22/09/25 | Min and Max For Every Window Size        | 🔴 Hard    | Stack  |
 | 11. | 23/09/25 | Reverse a Queue                          | 🟢 Easy    | Stack  |
+| 12. | 24/09/25 | Min and Max Queue                        | 🟡 Medium  | Queue  |
 
 (✅ I will keep updating this table daily as I solve new POTDs.)
 
