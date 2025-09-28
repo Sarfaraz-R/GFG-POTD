@@ -50,6 +50,7 @@ Each file contains:
 | 13. | 25/09/25 | Generate Binary Numbers                  | 🟢 Easy    | Queue                 |
 | 14. | 26/09/25 | Rotate A Dequeue By K                    | 🟢 Easy    | Queue                 |
 | 15. | 27/09/25 | minimum K Consecutive Bit Flips          | 🔴 Hard    | Sliding window ,Queue |
+| 14. | 28/09/25 | Longest Bounded-Difference Subarray      | 🟡 Medium  | Sliding window ,Queue |
 
 (✅ I will keep updating this table daily as I solve new POTDs.)
 
