@@ -51,6 +51,7 @@ Each file contains:
 | 14. | 26/09/25 | Rotate A Dequeue By K                    | 🟢 Easy    | Queue                 |
 | 15. | 27/09/25 | minimum K Consecutive Bit Flips          | 🔴 Hard    | Sliding window ,Queue |
 | 14. | 28/09/25 | Longest Bounded-Difference Subarray      | 🟡 Medium  | Sliding window ,Queue |
+| 15. | 29/09/25 | maximum Sum Subarray 2                   | 🔴 Hard    | Queue , Prefix Sum    |
 
 (✅ I will keep updating this table daily as I solve new POTDs.)
 
