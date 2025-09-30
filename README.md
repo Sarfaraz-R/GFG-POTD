@@ -33,25 +33,26 @@ Each file contains:
 
 🟢 Easy 🟡 Medium 🔴 Hard
 
-| #   | Date     | Problem Title                            | Difficulty | Topic                 |
-| --- | -------- | ---------------------------------------- | ---------- | --------------------- |
-| 1.  | 13/09/25 | Minimum Cost to cut a board into squares | 🟡 Medium  | Greedy                |
-| 2.  | 14/09/25 | Gas Station                              | 🟡 Medium  | Greedy                |
-| 3.  | 15/09/25 | string Stack                             | 🟡 Medium  | Greedy                |
-| 4.  | 16/09/25 | postfix Evaluation                       | 🟡 Medium  | Stack                 |
-| 5.  | 17/09/25 | Decode String                            | 🟡 Medium  | Stack                 |
-| 6.  | 18/09/25 | Next Greater Element II                  | 🟡 Medium  | Stack                 |
-| 7.  | 19/09/25 | Min Add To Make Parenthesis Valid        | 🟡 Medium  | Stack                 |
-| 8.  | 20/09/25 | Longest Subarray Length                  | 🟡 Medium  | Stack                 |
-| 9.  | 21/09/25 | Maximal Rectangle                        | 🔴 Hard    | Stack                 |
-| 10. | 22/09/25 | Min and Max For Every Window Size        | 🔴 Hard    | Stack                 |
-| 11. | 23/09/25 | Reverse a Queue                          | 🟢 Easy    | Stack                 |
-| 12. | 24/09/25 | Min and Max Queue                        | 🟡 Medium  | Queue                 |
-| 13. | 25/09/25 | Generate Binary Numbers                  | 🟢 Easy    | Queue                 |
-| 14. | 26/09/25 | Rotate A Dequeue By K                    | 🟢 Easy    | Queue                 |
-| 15. | 27/09/25 | minimum K Consecutive Bit Flips          | 🔴 Hard    | Sliding window ,Queue |
-| 14. | 28/09/25 | Longest Bounded-Difference Subarray      | 🟡 Medium  | Sliding window ,Queue |
-| 15. | 29/09/25 | maximum Sum Subarray 2                   | 🔴 Hard    | Queue , Prefix Sum    |
+| #   | Date     | Problem Title                            | Difficulty | Topic                    |
+| --- | -------- | ---------------------------------------- | ---------- | ------------------------ |
+| 1.  | 13/09/25 | Minimum Cost to cut a board into squares | 🟡 Medium  | Greedy                   |
+| 2.  | 14/09/25 | Gas Station                              | 🟡 Medium  | Greedy                   |
+| 3.  | 15/09/25 | string Stack                             | 🟡 Medium  | Greedy                   |
+| 4.  | 16/09/25 | postfix Evaluation                       | 🟡 Medium  | Stack                    |
+| 5.  | 17/09/25 | Decode String                            | 🟡 Medium  | Stack                    |
+| 6.  | 18/09/25 | Next Greater Element II                  | 🟡 Medium  | Stack                    |
+| 7.  | 19/09/25 | Min Add To Make Parenthesis Valid        | 🟡 Medium  | Stack                    |
+| 8.  | 20/09/25 | Longest Subarray Length                  | 🟡 Medium  | Stack                    |
+| 9.  | 21/09/25 | Maximal Rectangle                        | 🔴 Hard    | Stack                    |
+| 10. | 22/09/25 | Min and Max For Every Window Size        | 🔴 Hard    | Stack                    |
+| 11. | 23/09/25 | Reverse a Queue                          | 🟢 Easy    | Stack                    |
+| 12. | 24/09/25 | Min and Max Queue                        | 🟡 Medium  | Queue                    |
+| 13. | 25/09/25 | Generate Binary Numbers                  | 🟢 Easy    | Queue                    |
+| 14. | 26/09/25 | Rotate A Dequeue By K                    | 🟢 Easy    | Queue                    |
+| 15. | 27/09/25 | minimum K Consecutive Bit Flips          | 🔴 Hard    | Sliding window ,Queue    |
+| 14. | 28/09/25 | Longest Bounded-Difference Subarray      | 🟡 Medium  | Sliding window ,Queue    |
+| 15. | 29/09/25 | maximum Sum Subarray 2                   | 🔴 Hard    | Queue , Prefix Sum       |
+| 16. | 30/09/25 | Generate All Binary Strings              | 🟡 Medium  | Recursion , Backtracking |
 
 (✅ I will keep updating this table daily as I solve new POTDs.)
 
