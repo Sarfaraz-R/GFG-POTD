@@ -56,8 +56,8 @@ Each file contains:
 | 17. | 1/10/25  | All Unique Permutations                  | 🟡 Medium  | Recursion + Backtracking |
 | 18. | 2/10/25  | Unique K-Number Sum                      | 🟡 Medium  | Recursion + Backtracking |
 | 19. | 3/10/25  | Possible Words From Phone Digits         | 🟡 Medium  | Recursion + Backtracking |
-| 30. | 4/10/25  | Expression Add Operators                 | 🔴 Hard    | Recursion + Backtracking |
-| 31. | 5/10/25  | Rat in a Maze                            | 🟡 Medium  | Recursion + Backtracking |
+| 20. | 4/10/25  | Expression Add Operators                 | 🔴 Hard    | Recursion + Backtracking |
+| 21. | 5/10/25  | Rat in a Maze                            | 🟡 Medium  | Recursion + Backtracking |
 
 (✅ I will keep updating this table daily as I solve new POTDs.)
 
