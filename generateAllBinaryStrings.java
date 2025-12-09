@@ -36,6 +36,6 @@ class Solution {
     sb.append('1');
     helper(sb, n, ans);
     sb.deleteCharAt(sb.length() - 1);
-    
+
   }
 }
