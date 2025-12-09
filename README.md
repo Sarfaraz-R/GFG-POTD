@@ -58,10 +58,9 @@ Each file contains:
 | 19. | 3/10/25  | Possible Words From Phone Digits         | 🟡 Medium  | Recursion + Backtracking |
 | 20. | 4/10/25  | Expression Add Operators                 | 🔴 Hard    | Recursion + Backtracking |
 | 21. | 5/10/25  | Rat in a Maze                            | 🟡 Medium  | Recursion + Backtracking |
+| 21. | 9/12/25  | Array Duplicates                         | 🟢 Easy    | Arrays                   |
 
 (✅ I will keep updating this table daily as I solve new POTDs.)
-
-## sss
 
 ## 🛠️ Languages & Tools
 
